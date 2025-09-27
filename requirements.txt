@@ -1,0 +1,9 @@
+aiohttp
+numpy
+pandas
+Pillow
+tqdm
+datasets
+opencv-python-headless
+glasses-detector
+yolo5face
